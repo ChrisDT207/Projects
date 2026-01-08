@@ -14,7 +14,7 @@ Academic Projects completed during my Honours Degree of Computing
 
 Learning exercises and modules
 
-[GPA Calculator](Microsoft-Learn/Microsoft_Learn_GPA_Calculator)
+[GPA Calculator, ](Microsoft-Learn/Microsoft_Learn_GPA_Calculator)
 [Student Grading](Microsoft-Learn/Microsoft_Learn_Student_Grading)
 
 ### Personal Projects
