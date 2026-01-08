@@ -4,14 +4,14 @@ This repository contains a structured collection of my programming projects, org
 
 ## Structure
 
-**Belgium Campus**
+### Belgium Campus
 
 Academic Projects completed during my Honours Degree of Computing
 
-**Micrsoft Learn**
+### Micrsoft Learn
 
 Learning exercises and modules
 
-**Personal Projects**
+### Personal Projects
 
 Independent and experimental projects
