@@ -1,0 +1,1 @@
+This folder containts exercises completed through my studies using **Microsoft Learn**.

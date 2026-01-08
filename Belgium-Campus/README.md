@@ -1,0 +1,1 @@
+This folder contains academic projects completed as part of my studies at **Beglium Campus iTversity**.

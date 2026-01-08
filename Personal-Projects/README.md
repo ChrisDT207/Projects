@@ -1,0 +1,1 @@
+This folder contains independent projects created outside of formal coursework
