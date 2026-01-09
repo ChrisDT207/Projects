@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Take Action - EcoLearn</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>🌱 EcoLearn</h1>
+        <p>Environmental Education for Everyone</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="climate.html">Climate</a>
+        <a href="energy.html">Energy</a>
+        <a href="conservation.html">Conservation</a>
+        <a href="actions.html" class="active">Actions</a>
+    </nav>
+
+    <main>
+    <section>
+        <h2>🌟 Take Action for the Planet</h2>
+        <p>Everyone can make a difference! Small changes in daily habits add up to create big positive impacts for our environment.</p>
+    </section>
+
+    <section>
+        <h2>🏠 At Home</h2>
+    <div class="actions-grid">
+    <div class="action-card">
+        <h3>💡 Save Energy</h3>
+        <p>Use LED bulbs and turn off lights when leaving rooms</p>
+    </div>
+    <div class="action-card">
+        <h3>💧 Conserve Water</h3>
+        <p>Take shorter showers and fix leaky faucets</p>
+    </div>
+    <div class="action-card">
+        <h3>♻️ Recycle</h3>
+        <p>Sort waste and recycle paper, plastic, and glass</p>
+    </div>
+    <div class="action-card">
+        <h3>🌡️ Adjust Thermostat</h3>
+        <p>Lower heating and raise cooling by a few degrees</p>
+    </div>
+    </div>
+    </section>
+
+    <section>
+        <h2>🚶 Transportation</h2>
+    <div class="transport-grid">
+    <div class="transport-option">
+        <h3>🚶‍♀️ Walk</h3>
+        <p>Great for short distances and your health</p>
+    </div>
+    <div class="transport-option">
+        <h3>🚲 Bike</h3>
+        <p>Fast, fun, and zero emissions</p>
+    </div>
+    <div class="transport-option">
+        <h3>🚌 Public Transit</h3>
+        <p>Buses and trains reduce traffic and pollution</p>
+    </div>
+    <div class="transport-option">
+        <h3>🚗 Carpool</h3>
+        <p>Share rides to reduce fuel use</p>
+    </div>
+    </div>
+    </section>
+
+    <section>
+        <h2>🧮 Carbon Calculator</h2>
+    <div class="calculator">
+        <form oninput="
+        carCarbon.value = (km.value * 0.192).toFixed(1);
+        electricCarbon.value = (electricity.value * 0.95).toFixed(1);
+        totalCarbon.value = (+carCarbon.value + +electricCarbon.value).toFixed(1)">
+        
+        <label for="km">Kilometers Driven per Month:</label>
+        <input type="number" id="km" name="km" min="0" step="1" required>
+
+        <label for="electricity">Electricity Used (kWh per Month):</label>
+        <input type="number" id="electricity" name="electricity" min="0" step="1" required>
+
+        <p>Driving CO₂: <output name="carCarbon" for="km">0</output> ppm</p>
+        <p>Electricity CO₂: <output name="electricCarbon" for="electricity">0</output> ppm</p>
+        <p><strong>Total CO₂: <output name="totalCarbon" for="km electricity">0</output> ppm</strong></p>
+        </form>
+    </div>
+    </section>
+
+    <section>
+        <h2>🌍 Community Actions</h2>
+    <div class="community-grid">
+    <div class="community-action">
+        <h3>🗳️ Vote</h3>
+        <p>Support leaders who care about the environment</p>
+    </div>
+    <div class="community-action">
+        <h3>🌱 Plant Trees</h3>
+        <p>Join local tree-planting events</p>
+    </div>
+    <div class="community-action">
+        <h3>🧹 Clean Up</h3>
+        <p>Participate in neighborhood cleanup days</p>
+    </div>
+    <div class="community-action">
+        <h3>📚 Educate</h3>
+        <p>Share environmental knowledge with others</p>
+    </div>
+    </div>
+    </section>
+    </main>
+
+</body>
+</html>
