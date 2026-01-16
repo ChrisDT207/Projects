@@ -8,18 +8,24 @@ This repository contains a structured collection of my programming projects, org
 
 Academic Projects completed during my Honours Degree of Computing
 
-[FitForge Wellness Centre App](Belgium-Campus/FitForge_Wellness)  |
-[Accessibility Learning Project ](Belgium-Campus/AccessibilityProject_WPR)
+[FitForge Wellness Centre App](https://github.com/ChrisDT207/Projects/tree/0740ca3c0c2c4c044749e993a7d6f56814def96d/Belgium-Campus/FitForge_Wellness)  |
+[Accessibility Learning Project ](https://github.com/ChrisDT207/Projects/tree/93616d6e202b5c811a726d3288a7680c9e3ef03b/Belgium-Campus/Accessibility%20Project_WPR)
 
 ### Micrsoft Learn
 
 Learning exercises and modules
 
-[GPA Calculator](Microsoft-Learn/Microsoft_Learn_GPA_Calculator)  |
-[Student Grading](Microsoft-Learn/Microsoft_Learn_Student_Grading)
+[GPA Calculator](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Microsoft-Learn/Microsoft_Learn_GPA_Calculator)  |
+[Student Grading](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Microsoft-Learn/Microsoft_Learn_Student_Grading)
 
 ### Personal Projects
 
 Independent and experimental projects
 
-[Dice Roller (D&D)](Personal-Projects/DiceRoller(D&D))
+[Dice Roller (D&D)](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Personal-Projects/DiceRoller(D%26D))
+
+### Udemy 
+
+Udemy excercises and projects
+
+[Calculator](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Udemy/Calculator/Calculator)
