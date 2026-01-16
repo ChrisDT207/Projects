@@ -15,17 +15,17 @@ Academic Projects completed during my Honours Degree of Computing
 
 Learning exercises and modules
 
-[GPA Calculator](Microsoft-Learn/Microsoft_Learn_GPA_Calculator)  |
-[Student Grading](Microsoft-Learn/Microsoft_Learn_Student_Grading)
+[GPA Calculator](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Microsoft-Learn/Microsoft_Learn_GPA_Calculator)  |
+[Student Grading](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Microsoft-Learn/Microsoft_Learn_Student_Grading)
 
 ### Personal Projects
 
 Independent and experimental projects
 
-[Dice Roller (D&D)](Personal-Projects/DiceRoller(D&D))
+[Dice Roller (D&D)](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Personal-Projects/DiceRoller(D%26D))
 
 ### Udemy 
 
 Udemy excercises and projects
 
-[Calculator](Udemy/Calculator/Calculator)
+[Calculator](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Udemy/Calculator/Calculator)
