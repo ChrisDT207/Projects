@@ -9,7 +9,7 @@ This repository contains a structured collection of my programming projects, org
 Academic Projects completed during my Honours Degree of Computing
 
 [FitForge Wellness Centre App](Belgium-Campus/FitForge_Wellness)  |
-[Accessibility Learning Project ](Belgium-Campus/AccessibilityProject_WPR)
+[Accessibility Learning Project ](Belgium-Campus/Accessibility%Project_WPR)
 
 ### Micrsoft Learn
 
