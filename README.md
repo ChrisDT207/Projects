@@ -23,3 +23,9 @@ Learning exercises and modules
 Independent and experimental projects
 
 [Dice Roller (D&D)](Personal-Projects/DiceRoller(D&D))
+
+### Udemy 
+
+Udemy excercises and projects
+
+[Calculator](Udemy/Calculator)
