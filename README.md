@@ -28,4 +28,5 @@ Independent and experimental projects
 
 Udemy excercises and projects
 
-[Calculator](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Udemy/Calculator/Calculator)
+[Calculator](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Udemy/Calculator/Calculator)  |
+[ToDo List](https://github.com/ChrisDT207/Projects/tree/3c2d21572e77d25466d263ca0a43a2eaaa59218d/Udemy/ToDoList)
