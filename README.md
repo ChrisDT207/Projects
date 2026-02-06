@@ -22,7 +22,7 @@ Learning exercises and modules
 
 Independent and experimental projects
 
-[Dice Roller (D&D)](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Personal-Projects/DiceRoller(D%26D))
+[Dice Roller ((D&D) In Progress)](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Personal-Projects/DiceRoller(D%26D))
 
 ### Udemy 
 
