@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Projects - Arch Ledger</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Arch Ledger</h1>
+        <nav>
+            <ul class="nav-list">
+                <li><a href="dashboard.html" class="nav-link">Dashboard</a></li>
+                <li><a href="ticket.html" class="nav-link">Create Ticket</a></li>
+                <li><a href="people.html" class="nav-link">Manage People</a></li>
+                <li><a href="projects.html" class="nav-link active-link">Manage Projects</a></li>
+            </ul>
+        </nav>
+        <div class="admin-profile">
+            <a href="sign_in.html" class="nav-link">Sign-In</a>
+        </div>
+    </header>
+
+    <main>
+        <section class="form-container">
+            <h2>Add New Project</h2>
+            
+            <form id="form-project">
+                
+                <fieldset>
+                    <legend>Project Details</legend>
+                    
+                    <label for="project-id">Project ID:</label>
+                    <input type="text" id="project-id" placeholder="e.g., PRJ-101" required>
+
+                    <label for="project-name">Project Name:</label>
+                    <input type="text" id="project-name" placeholder="e.g., Clinic Management System" required>
+                </fieldset>
+
+                <div class="form-actions">
+                    <button type="submit" class="btn-primary">Save Project</button>
+                    <button type="reset" class="btn-secondary">Clear Form</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <script src="auth.js"></script>
+    <script src="storage.js"></script>
+    <script src="projects.js"></script>
+
+</body>
+</html>

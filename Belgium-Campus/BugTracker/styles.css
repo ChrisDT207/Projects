@@ -1,0 +1,358 @@
+:root 
+{
+    --primary-color: #2c3e50;
+    --secondary-color: #34495e;
+    --bg-color: #f4f7f6;
+    --card-bg: #ffffff;
+    --text-color: #333;
+    --border-radius: 8px;
+    --border-color: #ddd;
+
+    --priority-high: #e74c3c;
+    --priority-med: #f39c12;
+    --priority-low: #2ecc71;
+}
+
+* 
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body 
+{
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+main 
+{
+    padding: 2rem;
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: center; /* Centers form containers */
+}
+
+header 
+{
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+header h1 
+{
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.admin-profile 
+{
+    font-weight: bold;
+}
+
+nav .nav-list 
+{
+    display: flex;
+    gap: 0.5rem;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav .nav-list li 
+{
+    margin: 0;
+}
+
+.nav-link, 
+.nav-link:visited 
+{
+    text-decoration: none !important;
+    color: white !important;
+    background: transparent;
+    border: 1px solid white;
+    padding: 0.5rem 1rem;
+    border-radius: var(--border-radius);
+    transition: background 0.3s ease, color 0.3s ease;
+    font-size: 0.95rem;
+    display: block;
+}
+
+.nav-link:hover 
+{
+    background: rgba(255, 255, 255, 0.2);
+    color: white !important;
+}
+
+.active-link,
+.active-link:visited 
+{
+    background: white !important;
+    color: var(--primary-color) !important;
+    font-weight: bold;
+}
+
+.form-container 
+{
+    background: var(--card-bg);
+    width: 100%;
+    max-width: 800px; 
+    padding: 2rem;
+    border-radius: var(--border-radius);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.form-container h2 
+{
+    margin-bottom: 1.5rem;
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+fieldset 
+{
+    border: 1px solid var(--border-color);
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 6px;
+    background-color: #fcfcfc;
+}
+
+legend 
+{
+    font-weight: bold;
+    color: var(--primary-color);
+    background: var(--card-bg);
+    padding: 0 0.5rem;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+}
+
+label 
+{
+    display: block;
+    margin-bottom: 0.3rem;
+    font-weight: 500;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="url"],
+input[type="date"],
+select,
+textarea 
+{
+    width: 100%;
+    padding: 0.6rem;
+    margin-bottom: 1rem;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    font-size: 1rem;
+    background-color: #fff;
+}
+
+input:focus,
+select:focus,
+textarea:focus 
+{
+    outline: none;
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 0 2px rgba(52, 73, 94, 0.2);
+}
+
+.form-row 
+{
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap; 
+}
+
+.form-group 
+{
+    flex: 1; 
+    min-width: 200px;
+}
+
+.form-actions 
+{
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+button[type="submit"], 
+.btn-primary,
+.btn-secondary,
+.btn-view-details 
+{
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1rem;
+    transition: background 0.3s;
+}
+
+.btn-primary,
+button[type="submit"] 
+{
+    background-color: var(--primary-color);
+    color: white;
+    flex: 2; 
+}
+
+.btn-primary:hover,
+button[type="submit"]:hover 
+{
+    background-color: var(--secondary-color);
+}
+
+.btn-secondary 
+{
+    background-color: #e9ecef;
+    color: var(--text-color);
+    flex: 1;
+}
+
+.btn-secondary:hover 
+{
+    background-color: #ced4da;
+}
+
+.kanban-board 
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+    width: 100%; 
+}
+
+.kanban-column 
+{
+    background: #e9ecef;
+    padding: 1rem;
+    border-radius: var(--border-radius);
+}
+
+.kanban-column h3 
+{
+    margin-bottom: 1rem;
+    text-transform: capitalize;
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.ticket-card 
+{
+    background: var(--card-bg);
+    padding: 1rem;
+    border-radius: var(--border-radius);
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-left: 5px solid gray; 
+}
+
+.ticket-card.priority-high 
+{ 
+    border-left-color: var(--priority-high); 
+}
+
+.ticket-card.priority-med 
+{ 
+    border-left-color: var(--priority-med); 
+}
+
+.ticket-card.priority-low 
+{ 
+    border-left-color: var(--priority-low); 
+}
+
+.ticket-card header 
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: transparent;
+    color: var(--text-color);
+    padding: 0;
+    margin-bottom: 0.5rem;
+}
+
+.ticket-card .badge 
+{
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 12px;
+    background: #ddd;
+}
+
+.ticket-card footer 
+{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.85rem;
+}
+
+.btn-view-details 
+{
+    padding: 0.4rem 0.8rem;
+    font-size: 0.85rem;
+}
+
+dialog 
+{
+    margin: auto;
+    padding: 0;
+    border: none;
+    border-radius: var(--border-radius);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    width: 90%;
+    max-width: 600px;
+}
+
+dialog::backdrop 
+{
+    background: rgba(0,0,0,0.5);
+}
+
+dialog article 
+{
+    padding: 2rem;
+}
+
+dialog header 
+{
+    padding: 0;
+    margin-bottom: 1rem;
+    background: transparent;
+    color: var(--text-color);
+    box-shadow: none; 
+}
+
+dialog #btn-close-modal 
+{
+    background: #e74c3c;
+    color: white;
+    border: none;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    flex: none; 
+    width: auto; 
+    margin-left: auto;
+}
