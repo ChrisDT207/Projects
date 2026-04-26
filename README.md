@@ -13,22 +13,13 @@ Academic Projects completed during my Honours Degree of Computing
 [Fifa_2026 Database](https://github.com/ChrisDT207/Projects/tree/38df850394a662b1fa8be904cba9225f36d18196/Belgium-Campus/Fifa2026_Database)  |
 [Bug Tracker](https://github.com/ChrisDT207/Projects/tree/9325a2467baa9f96a2bbbf17f0583aaaa3e4ebc7/Belgium-Campus/BugTracker)
 
-### Micrsoft Learn
-
-Learning exercises and modules
-
-[GPA Calculator](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Microsoft-Learn/Microsoft_Learn_GPA_Calculator)  |
-[Student Grading](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Microsoft-Learn/Microsoft_Learn_Student_Grading)
-
 ### Personal Projects
 
 Independent and experimental projects
 
-[Dice Roller ((D&D) In Progress)](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Personal-Projects/DiceRoller(D%26D))
-
-### Udemy 
-
-Udemy excercises and projects
-
+[Dice Roller ((D&D) In Progress)](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Personal-Projects/DiceRoller(D%26D))  |
+[GPA Calculator](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Microsoft-Learn/Microsoft_Learn_GPA_Calculator)  |
+[Student Grading](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Microsoft-Learn/Microsoft_Learn_Student_Grading) |
 [Calculator](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Udemy/Calculator/Calculator)  |
-[ToDo List](https://github.com/ChrisDT207/Projects/tree/3c2d21572e77d25466d263ca0a43a2eaaa59218d/Udemy/ToDoList)
+[ToDo List](https://github.com/ChrisDT207/Projects/tree/3c2d21572e77d25466d263ca0a43a2eaaa59218d/Udemy/ToDoList)  |
+[Guess My Number](https://github.com/ChrisDT207/Projects/tree/88b8d24dd27570b9da03299f10b071335acea23c/Personal-Projects/Guess_My_Number!)
