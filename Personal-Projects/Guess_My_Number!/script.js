@@ -2,6 +2,7 @@
 
 let number = Math.trunc(Math.random() * 20)+1;
 let score = 20;
+let highscore = 0;
 
 document.querySelector('.check').addEventListener('click', function() 
 {
@@ -18,6 +19,12 @@ document.querySelector('.check').addEventListener('click', function()
         document.querySelector('.message').textContent = '🎉 Correct Number!'; 
         document.querySelector('body').style.backgroundColor = 'green';
         document.querySelector('.number').style.width = '30rem';
+        
+        if (score > highscore) 
+        {
+            highscore = score;
+            document.querySelector('.highscore').textContent = highscore;    
+        }
     }
     else if (guess > number) 
     {
@@ -52,7 +59,7 @@ document.querySelector('.check').addEventListener('click', function()
 document.querySelector('.again').addEventListener('click', function () 
 {
     score = 20;
-    let number = Math.trunc(Math.random() * 20)+1;
+    number = Math.trunc(Math.random() * 20)+1;
     document.querySelector('.message').textContent = 'Start guessing...';
     document.querySelector('.score').textContent = score;
     document.querySelector('.number').textContent = '?';
