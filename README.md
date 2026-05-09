@@ -22,4 +22,6 @@ Independent and experimental projects
 [Student Grading](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Microsoft-Learn/Microsoft_Learn_Student_Grading) |
 [Calculator](https://github.com/ChrisDT207/Projects/tree/a668db962859686cff1d61f1675c3042e9dee3a8/Udemy/Calculator/Calculator)  |
 [ToDo List](https://github.com/ChrisDT207/Projects/tree/3c2d21572e77d25466d263ca0a43a2eaaa59218d/Udemy/ToDoList)  |
-[Guess My Number](https://github.com/ChrisDT207/Projects/tree/314689ef467e147f2039332a8af2e74ccdb7fef7/Personal-Projects/Guess_My_Number!)
+[Guess My Number](https://github.com/ChrisDT207/Projects/tree/314689ef467e147f2039332a8af2e74ccdb7fef7/Personal-Projects/Guess_My_Number!)  |
+[Modal Window (In Progress)](https://github.com/ChrisDT207/Projects/tree/aa4516e52bc4469e0a49872ab6ca635befc8bd68/Personal-Projects/Modal%20Window)  |
+[]
