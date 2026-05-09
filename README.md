@@ -24,4 +24,4 @@ Independent and experimental projects
 [ToDo List](https://github.com/ChrisDT207/Projects/tree/3c2d21572e77d25466d263ca0a43a2eaaa59218d/Udemy/ToDoList)  |
 [Guess My Number](https://github.com/ChrisDT207/Projects/tree/314689ef467e147f2039332a8af2e74ccdb7fef7/Personal-Projects/Guess_My_Number!)  |
 [Modal Window (In Progress)](https://github.com/ChrisDT207/Projects/tree/aa4516e52bc4469e0a49872ab6ca635befc8bd68/Personal-Projects/Modal%20Window)  |
-[]
+[Leuven Collect (Hackthewaste 2026)](https://github.com/ChrisDT207/Projects/tree/80acc8563a4c858bce15e46814e3e5778487cffb/Personal-Projects/Leuven%20Collect%20app)
