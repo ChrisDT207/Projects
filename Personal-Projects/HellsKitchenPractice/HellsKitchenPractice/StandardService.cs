@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HellsKitchenPractice
+{
+    internal class StandardService : ResturantServices
+    {
+        public StandardService(int serviceNumber, int numberOfGuests, string serviceType, int timeLimit, string currentStatus) : base(serviceNumber, numberOfGuests, serviceType, timeLimit, currentStatus)
+        {
+        }
+
+        public override void Services()
+        {
+            Console.WriteLine($"#{ServiceNumber} | Number of Guests: {NumberOfGuests} | Service Type: {ServiceType} | Time Limit: {TimeLimit} | Current Status: {CurrentStatus} | Normal Service: Kitchen Works normally.");
+        }
+    }
+}
