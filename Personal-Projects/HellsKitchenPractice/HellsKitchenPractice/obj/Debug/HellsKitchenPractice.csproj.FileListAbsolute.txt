@@ -1,0 +1,8 @@
+C:\Users\chris\OneDrive\Desktop\Projects\Personal-Projects\HellsKitchenPractice\HellsKitchenPractice\bin\Debug\HellsKitchenPractice.exe.config
+C:\Users\chris\OneDrive\Desktop\Projects\Personal-Projects\HellsKitchenPractice\HellsKitchenPractice\bin\Debug\HellsKitchenPractice.exe
+C:\Users\chris\OneDrive\Desktop\Projects\Personal-Projects\HellsKitchenPractice\HellsKitchenPractice\bin\Debug\HellsKitchenPractice.pdb
+C:\Users\chris\OneDrive\Desktop\Projects\Personal-Projects\HellsKitchenPractice\HellsKitchenPractice\obj\Debug\HellsKitchenPractice.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Projects\Personal-Projects\HellsKitchenPractice\HellsKitchenPractice\obj\Debug\HellsKitchenPractice.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Projects\Personal-Projects\HellsKitchenPractice\HellsKitchenPractice\obj\Debug\HellsKitchenPractice.exe
+C:\Users\chris\OneDrive\Desktop\Projects\Personal-Projects\HellsKitchenPractice\HellsKitchenPractice\obj\Debug\HellsKitchenPractice.pdb
+C:\Users\chris\OneDrive\Desktop\Projects\Personal-Projects\HellsKitchenPractice\HellsKitchenPractice\obj\Debug\HellsKitchenPractice.exe.config

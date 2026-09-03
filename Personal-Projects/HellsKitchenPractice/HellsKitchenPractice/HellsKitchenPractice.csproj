@@ -57,6 +57,7 @@
     <Compile Include="KitchenAccidentException.cs" />
     <Compile Include="KitchenAccidents.cs" />
     <Compile Include="KitchenIncidentsManager.cs" />
+    <Compile Include="KitchenServiceSimulation.cs" />
     <Compile Include="ManageDishes.cs" />
     <Compile Include="Pastry.cs" />
     <Compile Include="..\..\..\..\Belgium Campus\BComp 2nd Year\Subjects\PRG281\Program.cs">

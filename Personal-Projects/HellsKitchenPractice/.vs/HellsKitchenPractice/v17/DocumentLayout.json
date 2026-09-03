@@ -3,11 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|c:\\users\\chris\\onedrive\\desktop\\belgium campus\\bcomp 2nd year\\subjects\\prg281\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\hellskitchenpractice\\contestantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|solutionrelative:hellskitchenpractice\\contestantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|c:\\users\\chris\\onedrive\\desktop\\projects\\personal-projects\\hellskitchenpractice\\hellskitchenpractice\\managedishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|solutionrelative:hellskitchenpractice\\managedishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\hellskitchenpractice\\createservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -16,6 +13,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\hellskitchenpractice\\kitchenincidentsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|solutionrelative:hellskitchenpractice\\kitchenincidentsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|c:\\users\\chris\\onedrive\\desktop\\belgium campus\\bcomp 2nd year\\subjects\\prg281\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\hellskitchenpractice\\kitchenservicesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|solutionrelative:hellskitchenpractice\\kitchenservicesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\hellskitchenpractice\\contestantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51DF3E5-9560-4B75-94EE-0C0AF9150C9A}|HellsKitchenPractice\\HellsKitchenPractice.csproj|solutionrelative:hellskitchenpractice\\contestantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,50 +41,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "ManageDishes.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\HellsKitchenPractice\\ManageDishes.cs",
+              "RelativeDocumentMoniker": "HellsKitchenPractice\\ManageDishes.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\HellsKitchenPractice\\ManageDishes.cs",
+              "RelativeToolTip": "HellsKitchenPractice\\ManageDishes.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T17:41:40.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KitchenServiceSimulation.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\HellsKitchenPractice\\KitchenServiceSimulation.cs",
+              "RelativeDocumentMoniker": "HellsKitchenPractice\\KitchenServiceSimulation.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\HellsKitchenPractice\\KitchenServiceSimulation.cs",
+              "RelativeToolTip": "HellsKitchenPractice\\KitchenServiceSimulation.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T19:04:51.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "KitchenIncidentsManager.cs",
               "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\HellsKitchenPractice\\KitchenIncidentsManager.cs",
               "RelativeDocumentMoniker": "HellsKitchenPractice\\KitchenIncidentsManager.cs",
               "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\HellsKitchenPractice\\KitchenIncidentsManager.cs",
               "RelativeToolTip": "HellsKitchenPractice\\KitchenIncidentsManager.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T18:32:13.022Z"
+              "WhenOpened": "2026-08-26T18:32:13.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CreateServices.cs",
               "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\HellsKitchenPractice\\CreateServices.cs",
               "RelativeDocumentMoniker": "HellsKitchenPractice\\CreateServices.cs",
               "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\HellsKitchenPractice\\CreateServices.cs",
               "RelativeToolTip": "HellsKitchenPractice\\CreateServices.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAiwEQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T18:30:52.653Z"
+              "WhenOpened": "2026-08-26T18:30:52.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ContestantManager.cs",
               "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\HellsKitchenPractice\\ContestantManager.cs",
               "RelativeDocumentMoniker": "HellsKitchenPractice\\ContestantManager.cs",
               "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\Projects\\Personal-Projects\\HellsKitchenPractice\\HellsKitchenPractice\\ContestantManager.cs",
               "RelativeToolTip": "HellsKitchenPractice\\ContestantManager.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAywBMAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-26T18:30:39.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\Belgium Campus\\BComp 2nd Year\\Subjects\\PRG281\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Belgium Campus\\BComp 2nd Year\\Subjects\\PRG281\\Program.cs",
               "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\Belgium Campus\\BComp 2nd Year\\Subjects\\PRG281\\Program.cs",
               "RelativeToolTip": "..\\..\\..\\Belgium Campus\\BComp 2nd Year\\Subjects\\PRG281\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-22T20:46:20.927Z",
               "EditorCaption": ""

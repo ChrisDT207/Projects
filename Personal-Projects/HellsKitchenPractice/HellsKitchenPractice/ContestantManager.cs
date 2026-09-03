@@ -46,6 +46,8 @@ namespace HellsKitchenPractice
 
             Console.WriteLine();
 
+            Console.Clear();
+
             Console.WriteLine("====================");
             Console.WriteLine("CONTESTANT SPECIALTY");
             Console.WriteLine("====================");
@@ -55,6 +57,8 @@ namespace HellsKitchenPractice
             Console.WriteLine("Choose Contestant Specialty: ");
             Console.WriteLine("1. Pastry \n2. Seafood \n3. Grill \n4. Italian \n5. Asian");
 
+            Console.WriteLine();
+
             string userChoice = Console.ReadLine();
 
             switch (userChoice)
@@ -62,27 +66,22 @@ namespace HellsKitchenPractice
                 case "1":
                     Pastry newPastryContestant = new Pastry(userInputNumber,userInputName,userInputAge,userInputCookingExpiernceYears,userInputTeam);
                     contestantsList.Add(newPastryContestant);
-                    Console.WriteLine("New Pastry Contestant successfully added");
                 break;
                 case "2":
                     Seafood newSeafoodContestant = new Seafood(userInputNumber, userInputName, userInputAge, userInputCookingExpiernceYears, userInputTeam);
                     contestantsList.Add(newSeafoodContestant);
-                    Console.WriteLine("New Seafood Contestant successfully added");
                 break;
                 case "3":
                     Grill newGrillContestant = new Grill(userInputNumber, userInputName, userInputAge, userInputCookingExpiernceYears, userInputTeam);
                     contestantsList.Add(newGrillContestant);
-                    Console.WriteLine("New Grill Contestant successfully added");
                 break;
                 case "4":
                     Italian newItalianContestant = new Italian(userInputNumber, userInputName, userInputAge, userInputCookingExpiernceYears, userInputTeam);
                     contestantsList.Add(newItalianContestant);
-                    Console.WriteLine("New Italian Contestant successfully added");
                 break;
                 case "5":
                     Asian newAsianContestant = new Asian(userInputNumber, userInputName, userInputAge, userInputCookingExpiernceYears, userInputTeam);
                     contestantsList.Add(newAsianContestant);
-                    Console.WriteLine("New Asian Contestant successfully added");
                 break;
                 default:
                     Console.WriteLine("Inavlid Input, please try again");
@@ -92,11 +91,14 @@ namespace HellsKitchenPractice
             if (ContestantAdded != null)
             {
                 ContestantAdded($"ALERT: New contestant {userInputName} has been added to the list");
+                Console.ReadKey();
             }
         }
 
         public void ViewContestants()
         {
+            Console.Clear(); 
+
             Console.WriteLine("================");
             Console.WriteLine("VIEW CONTESTANTS");
             Console.WriteLine("================");
@@ -112,6 +114,8 @@ namespace HellsKitchenPractice
             {
                 item.Specialty();
             }
+
+            Console.ReadKey();
         }
     }
 }

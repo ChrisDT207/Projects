@@ -44,6 +44,8 @@ namespace HellsKitchenPractice
 
             Console.WriteLine();
 
+            Console.Clear();
+
             Console.WriteLine("===============");
             Console.WriteLine("Kitchen Service");
             Console.WriteLine("===============");
@@ -52,6 +54,9 @@ namespace HellsKitchenPractice
 
             Console.WriteLine("Choose Service: ");
             Console.WriteLine("1. Standard Service \n2. VIP Service \n3.Challenge Service");
+
+            Console.WriteLine();
+
             string userInputChoice = Console.ReadLine();
 
             switch (userInputChoice)
@@ -59,17 +64,14 @@ namespace HellsKitchenPractice
                 case "1":
                     StandardService standardService = new StandardService(userInputNumber, userInputGuests, userInputServiceType, userInputTimeLimit, userInputCurrentStatus);
                     resturantServicesList.Add(standardService);
-                    Console.WriteLine("Successfully added to Standard Service");
                 break;
                 case "2":
                     VIPService vipService = new VIPService(userInputNumber, userInputGuests, userInputServiceType, userInputTimeLimit, userInputCurrentStatus);
                     resturantServicesList.Add(vipService);
-                    Console.WriteLine("Successfully added to VIP Service");
                 break;
                 case "3":
                     Challenge challengeService = new Challenge(userInputNumber, userInputGuests, userInputServiceType, userInputTimeLimit, userInputCurrentStatus);
                     resturantServicesList.Add(challengeService);
-                    Console.WriteLine("Successfully added to Challenge Service");
                 break;
                 default:
                     Console.WriteLine("Invalid input");
@@ -79,6 +81,7 @@ namespace HellsKitchenPractice
             if (CreateServicesAlert != null)
             {
                 CreateServicesAlert($"ALERT: New service {userInputServiceType} has been added to the list.");
+                Console.ReadKey();
             }
         }
     }

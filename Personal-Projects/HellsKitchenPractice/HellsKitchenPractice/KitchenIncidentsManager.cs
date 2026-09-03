@@ -54,6 +54,7 @@ namespace HellsKitchenPractice
             if (KitchenIncidentsAlert != null)
             {
                 KitchenIncidentsAlert($"ALERT: An accident has occured in the kitchen!");
+                Console.ReadKey();
             }
         }
 
@@ -61,7 +62,8 @@ namespace HellsKitchenPractice
         {
             foreach (var item in kitchenAccidentsList)
             {
-                Console.WriteLine($"Accident: {item.KitchenAccident1} | Severity: {item.AccidentSeverity}");   
+                Console.WriteLine($"Accident: {item.KitchenAccident1} | Severity: {item.AccidentSeverity}");
+                Console.ReadKey();
             }
         }
     }
