@@ -25,7 +25,7 @@ Independent and experimental projects
 [Guess My Number](https://github.com/ChrisDT207/Projects/tree/314689ef467e147f2039332a8af2e74ccdb7fef7/Personal-Projects/Guess_My_Number!)  |
 [Leuven Collect (Hackthewaste 2026)](https://github.com/ChrisDT207/Projects/tree/80acc8563a4c858bce15e46814e3e5778487cffb/Personal-Projects/Leuven%20Collect%20app)  |
 [Hell's Kitchen App](https://github.com/ChrisDT207/Projects/tree/93852ac0bfa83252acd2ea2db69edb20ce17d748/Personal-Projects/HellsKitchenPractice) | 
-[Discord Bot](https://github.com/ChrisDT207/Projects/tree/392a88c3a853f46e4964e7e338afc7e401260a89/Personal-Projects/Discord_Bot)
+[Discord Bot](https://github.com/ChrisDT207/Projects/tree/fdc350614f8dfa3a9ba44d43ae53fa35459e0ca8/Personal-Projects/Discord_Bot)
 
 ### In progress
 
