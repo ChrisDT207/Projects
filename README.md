@@ -23,7 +23,7 @@ Independent and experimental projects
 [Calculator](https://github.com/ChrisDT207/Projects/tree/5594796e8e8ee69e22b9ed75ab1f2c22ddb3c700/Personal-Projects/Calculator)  |
 [ToDo List](https://github.com/ChrisDT207/Projects/tree/5594796e8e8ee69e22b9ed75ab1f2c22ddb3c700/Personal-Projects/ToDoList)  |
 [Guess My Number](https://github.com/ChrisDT207/Projects/tree/5594796e8e8ee69e22b9ed75ab1f2c22ddb3c700/Personal-Projects/Guess_My_Number!)  |
-[Leuven Collect (Hackthewaste 2026)](https://github.com/ChrisDT207/Projects/tree/5594796e8e8ee69e22b9ed75ab1f2c22ddb3c700/Personal-Projects/Leuven%20Collect%20app)  |
+[Leuven Collect (Hackthewaste 2026)](https://github.com/ChrisDT207/Projects/tree/8dc1a47084baac24aafeb35eb127a216330e336d/Personal-Projects/Leuven%20Collect%20app)  |
 [Hell's Kitchen App](https://github.com/ChrisDT207/Projects/tree/5594796e8e8ee69e22b9ed75ab1f2c22ddb3c700/Personal-Projects/HellsKitchenPractice) | 
 [Discord Bot](https://github.com/ChrisDT207/Projects/tree/5594796e8e8ee69e22b9ed75ab1f2c22ddb3c700/Personal-Projects/Discord_Bot)
 
