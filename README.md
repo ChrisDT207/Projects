@@ -27,7 +27,8 @@ Independent and experimental projects
 [Hell's Kitchen App](https://github.com/ChrisDT207/Projects/tree/5594796e8e8ee69e22b9ed75ab1f2c22ddb3c700/Personal-Projects/HellsKitchenPractice) | 
 [Discord Bot](https://github.com/ChrisDT207/discord-bot.git)  |
 [file-anomaly-scanner](https://github.com/ChrisDT207/file-anomaly-scanner.git)  |
-[link-safety-checker](https://github.com/ChrisDT207/link-safety-checker.git)
+[link-safety-checker](https://github.com/ChrisDT207/link-safety-checker.git)  | 
+[file-converter](https://github.com/ChrisDT207/file-converter.git)
 
 ### In progress
 
