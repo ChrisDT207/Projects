@@ -28,7 +28,8 @@ Independent and experimental projects
 [Discord Bot](https://github.com/ChrisDT207/discord-bot.git)  |
 [file-anomaly-scanner](https://github.com/ChrisDT207/file-anomaly-scanner.git)  |
 [link-safety-checker](https://github.com/ChrisDT207/link-safety-checker.git)  | 
-[file-converter](https://github.com/ChrisDT207/file-converter.git)
+[file-converter](https://github.com/ChrisDT207/file-converter.git)  |
+[minecraft-server-hoster](https://github.com/ChrisDT207/minecraft-server-hoster.git)
 
 ### In progress
 
