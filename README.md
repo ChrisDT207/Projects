@@ -15,7 +15,7 @@ Academic Projects completed during my Bachelors Degree of Computing
 [O.R.I.O.N Space Station Operations](https://github.com/ChrisDT207/PRG281_Project.git)  |
 [Baobab-Ridge-Wildlife-Rehabilitation](https://github.com/Reuben-S06/Baobab-Ridge-Wildlife-Rehabilitation.git)
 
-### Small Personal Projects
+### Personal Projects
 
 Independent and experimental projects
 
